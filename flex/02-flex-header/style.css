@@ -29,3 +29,8 @@ a {
 ul {
   display:flex;
 }
+
+.left-links, .right-links {
+  display: flex;
+  align-items: center;
+}
