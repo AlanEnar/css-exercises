@@ -1,3 +1,8 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
@@ -28,6 +33,11 @@ a {
 
 ul {
   display:flex;
+}
+
+li {
+  margin-left:10px;
+  margin-right: 5px;
 }
 
 .left-links, .right-links {
