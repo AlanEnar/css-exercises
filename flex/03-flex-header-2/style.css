@@ -37,6 +37,10 @@ body {
   align-items:center;
 }
 
+.right-stuff > * {
+  margin-left:16px;
+}
+
 button {
   border: none;
   border-radius: 8px;
@@ -55,4 +59,8 @@ ul {
   list-style-type: none;
   display:flex;
   padding:0;/*Cancel out browser styles*/
+}
+
+li {
+  margin-left: 16px;
 }
