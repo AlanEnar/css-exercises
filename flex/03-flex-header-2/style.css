@@ -33,6 +33,7 @@ body {
 
 .left-stuff, .right-stuff {
   display: flex;
+  align-items:center;
 }
 
 button {
