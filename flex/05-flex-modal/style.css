@@ -26,6 +26,11 @@ body {
   display: flex;
 }
 
+.text {
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
